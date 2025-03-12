@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://calculadora-medias-nine.vercel.app/)
 
 ### Ferramentas utiliizadas:
